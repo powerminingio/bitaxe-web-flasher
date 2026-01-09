@@ -85,30 +85,15 @@
             ]
         },
         {
-            "name": "NerdMiner",
+            "name": "NerdOCTAXE",
             "repository": "",
             "boards": [
                 {
-                    "name": "100",
+                    "name": " Gamma (8 x BM1370)",
                     "supported_firmware": [
                         {
-                            "version": "1.0.0",
-                            "path": "firmware/merged-flash-nerdminer.bin"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "NerdNOS",
-            "repository": "",
-            "boards": [
-                {
-                    "name": "100",
-                    "supported_firmware": [
-                        {
-                            "version": "1.0.4",
-                            "path": "firmware/nerdnos.bin"
+                            "version": "1.0.35.160A",
+                            "path": "firmware/octaxegamma160A.bin"
                         }
                     ]
                 }
