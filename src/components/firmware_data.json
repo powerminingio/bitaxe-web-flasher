@@ -85,15 +85,15 @@
             ]
         },
         {
-            "name": "NerdOCTAXE",
+            "name": "Aura",
             "repository": "",
             "boards": [
                 {
-                    "name": " Gamma (8 x BM1370)",
+                    "name": " Proto (2 x Teraflux)",
                     "supported_firmware": [
                         {
-                            "version": "1.0.35.160A",
-                            "path": "firmware/octaxegamma160A.bin"
+                            "version": "20e4d2f-dirty",
+                            "path": "firmware/aura_proto.bin"
                         }
                     ]
                 }
