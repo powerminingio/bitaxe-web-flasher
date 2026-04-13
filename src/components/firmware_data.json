@@ -99,5 +99,20 @@
                 }
             ]
         }
+        {
+            "name": "NerdQAxe",
+            "repository": "",
+            "boards": [
+                {
+                    "name": " ++",
+                    "supported_firmware": [
+                        {
+                            "version": "587af2b",
+                            "path": "firmware/nerdqaxe++.bin"
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
